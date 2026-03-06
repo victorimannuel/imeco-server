@@ -4,3 +4,6 @@
 [submodule "apps/radar-mandiri-sukses"]
 	path = apps/radar-mandiri-sukses
 	url = https://github.com/victorimannuel/radar-mandiri-sukses.git
+[submodule "apps/globalindo-simetrika"]
+	path = apps/globalindo-simetrika
+	url = git@github.com:victorimannuel/globalindo-simetrika-website.git
